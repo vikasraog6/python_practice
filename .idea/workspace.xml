@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1617b845-15a5-4aae-a23b-62c7caec9d31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/square_root.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern_printing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/prime_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/voting.py" beforeDir="false" afterPath="$PROJECT_DIR$/voting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.pattern_printing.executor": "Run",
     "Python.prime_number.executor": "Run",
     "Python.square_root.executor": "Run",
     "Python.sub.executor": "Run",
