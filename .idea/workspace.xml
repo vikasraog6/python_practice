@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1617b845-15a5-4aae-a23b-62c7caec9d31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/month_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiplicationTable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year.py" beforeDir="false" afterPath="$PROJECT_DIR$/year.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.MultiplicationTable.executor": "Run",
     "Python.calendar.executor": "Run",
     "Python.month_year.executor": "Run",
     "Python.pattern_printing.executor": "Run",
