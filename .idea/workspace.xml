@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8b94e87-9d8b-4fb2-b29f-3f38812e8116" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiplicationTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplicationTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eligibility_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shutdown_Restart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shutdown_Restart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +23,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2sHeAPdtoSt4kasaCHIKPElYPBf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python..eligibility_check.executor": "Run",
     "Python.Eligbility_marriage.executor": "Run",
+    "Python.Shutdown_Restart.executor": "Run",
     "Python.eligibility_check.executor": "Run",
     "Python.marriage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "VIKAS__PRACTICE"
   }
 }]]></component>
-  <component name="RunManager" selected="Python..eligibility_check">
+  <component name="RunManager" selected="Python.Shutdown_Restart">
+    <configuration name="Shutdown_Restart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shutdown_Restart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="eligibility_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_practice" />
       <option name="ENV_FILES" value="" />
@@ -102,13 +135,27 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python..eligibility_check" />
+        <item itemvalue="Python.Shutdown_Restart" />
         <item itemvalue="Python.eligibility_check" />
-        <item itemvalue="Python.Eligbility_marriage" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b94e87-9d8b-4fb2-b29f-3f38812e8116" name="Changes" comment="" />
+      <created>1738116789951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738116789951</updated>
+    </task>
     <servers />
   </component>
 </project>
